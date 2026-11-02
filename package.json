@@ -1,0 +1,7 @@
+{
+  "name": "marketplace-image-thumbnails-typescript",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --experimental-strip-types src/thumbnail_service.test.ts", "example": "node --experimental-strip-types src/run-example.ts" },
+  "dependencies": { "zod": "^3.23.8" }
+}
